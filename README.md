@@ -17,11 +17,11 @@ Furthermore i hope you enjoy these patches made by amazing people and have a gre
 
 # These Patches contain the following changes
 
-- Patch-A.mpq
+# Patch-A.mpq
 * Classic Loginscreen with new theme song, character creation screen, improved water and or liquid quality.
 
-- Patch-B.mpq
+# Patch-B.mpq
 * Improved tileset textures
 
-- Patch-C.mpq
+# Patch-C.mpq
 * Cloth texture and character model improvements
