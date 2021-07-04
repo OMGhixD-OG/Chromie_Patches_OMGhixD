@@ -19,10 +19,10 @@ Furthermore i hope you enjoy these patches made by amazing people and have a gre
 
 - Patch-A.mpq
 -- Classic Loginscreen with new theme song and character creation screen.
--- Improved water and or liquid quality.
+- Improved water and or liquid quality.
 
 - Patch-B.mpq
--- Improved tileset textures
+- Improved tileset textures
 
 - Patch-C.mpq
--- Cloth texture and character model improvements
+- Cloth texture and character model improvements
