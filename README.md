@@ -1,7 +1,7 @@
 # OMGhixDs Collection of WoTLK Graphics Improvement Patches.
 - for ChromieCraft and its community (and of course anyone else wanting to use them!)
 
--This is a repository of my Patches which are collected from multiple sources. Some are made and or modified by me and some are not modified by me at all. Credits to the respective creators!
+- This is a repository of my Patches which are collected from multiple sources. Some are made and or modified by me and some are not modified by me at all. Credits to the respective creators!
 
 The installation process is very simple
 
