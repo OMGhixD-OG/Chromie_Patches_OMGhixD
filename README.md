@@ -7,7 +7,8 @@
 
 The installation process is very simple
 
-- 1.) Clone/Download the repository
+- 1.) Download Wow.exe, Patch-A, Patch-B and Patch-C from 
+- https://drive.google.com/drive/folders/1S6fIXJPQouXVfBp_8N8oeBeVYP6LaQMU?usp=sharing
 - 2.) Backup your current Wow.exe and replace the original one with the one provided in the repository
 - 3.) Move to the Data folder and copy all of the MPQ files as shown within the repository.
 - 4.) Clear cache and start the game! (It isn't required to clear cache. But its still a good practice to memorize and familiarize!)
