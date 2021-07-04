@@ -25,3 +25,12 @@ Furthermore i hope you enjoy these patches made by amazing people and have a gre
 
 # Patch-C.mpq
 * Cloth texture and character model improvements
+
+
+# Preview of the Loginscreen
+
+![Loginscreen Showcase](https://cdn.discordapp.com/attachments/857736079872360500/861273987739942912/unknown.png)
+
+# Character Creation Screen
+
+![Character Creation Screen](https://cdn.discordapp.com/attachments/857736079872360500/861274379098914846/unknown.png)
